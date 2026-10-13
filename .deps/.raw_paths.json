@@ -1,0 +1,4 @@
+{
+  "https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/master/contracts/access/Ownable.sol": ".deps/github/OpenZeppelin/openzeppelin-contracts@master/contracts/access/Ownable.sol",
+  "https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/master/contracts/utils/Context.sol": ".deps/github/OpenZeppelin/openzeppelin-contracts@master/contracts/utils/Context.sol"
+}
